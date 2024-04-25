@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChallengeConversorMoedasAPI-Sa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChallengeConversorMoedasAPI_Sa_jar</output-path>
+    <root id="archive" name="ChallengeConversorMoedasAPI-Sa.jar">
+      <element id="module-output" name="ChallengeConversorMoedasAPI-Sa" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/Dependencias/gson-2.10.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
