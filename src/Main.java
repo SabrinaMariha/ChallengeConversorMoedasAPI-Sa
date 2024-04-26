@@ -4,20 +4,11 @@ import java.util.Scanner;
 
 /**
  * Classe principal responsável por lidar com a conversão de moedas.
- */
+pai */
 public class Main {
-
-    /**
-     * Método principal que exibe o menu e realiza a conversão de moedas.
-     *
-     * @param args Argumentos da linha de comando (não utilizados neste programa).
-     * @throws IOException Se ocorrer um erro de I/O.
-     * @throws InterruptedException Se o programa for interrompido.
-     */
-    public static void main(String[] args) throws IOException, InterruptedException {
+    public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         boolean continuar = true;
-
         do {
             // Instancia um objeto da classe Menu e exibe o menu
             Menu menu = new Menu();
